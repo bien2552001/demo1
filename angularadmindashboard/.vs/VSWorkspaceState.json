@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\app",
+    "\\src\\app\\components",
+    "\\src\\app\\components\\charts-apexcharts",
+    "\\src\\app\\components\\charts-chartjs",
+    "\\src\\app\\components\\table-restapi",
+    "\\src\\app\\components\\table-restapi\\post",
+    "\\src\\app\\pages",
+    "\\src\\environments"
+  ],
+  "SelectedNode": "\\src\\app\\components\\charts-apexcharts\\charts-apexcharts.component.ts",
+  "PreviewInSolutionExplorer": false
+}
